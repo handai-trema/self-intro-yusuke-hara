@@ -6,5 +6,7 @@
 ネットワーク学専攻ではありますが、研究はネットワークとの関連があまりないことを行っているので、  
 この演習を通じてネットワークの知識や実装方法を学んでいきたいと思います。  
 これからよろしくお願いします。
-
+#レポート
+レポートのリンク  
+<https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05.md>
 
