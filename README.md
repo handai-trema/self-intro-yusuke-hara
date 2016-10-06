@@ -8,5 +8,5 @@
 これからよろしくお願いします。
 #レポート
 レポートのリンク  
-[10/5レポート]https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05.md "10/5レポート"
+[10/5レポート]:https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05.md  "10/5レポート"
 
