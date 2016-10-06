@@ -7,6 +7,5 @@
 この演習を通じてネットワークの知識や実装方法を学んでいきたいと思います。  
 これからよろしくお願いします。
 #レポート
-レポートのリンク  
 [10/5レポート](https://github.com/handai-trema/hello-trema-yusuke-hara/blob/master/report/report_10_05.md  "10/5レポート")
 
